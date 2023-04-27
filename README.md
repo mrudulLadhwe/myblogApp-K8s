@@ -8,7 +8,7 @@ Created blog application using Spring Boot and MySQL database and deployed on Ku
  - Used Spring Security to Perform In-Memory and DB Authentication and Authorization
  - Used Spring Data JPA to write query methods and create entity
  - Dockerized the Springboot MySQL aaplication
- - Created Docker Compose file and started the application
+ - Configured MySQl Image and Spring Boot in a container using Docker Compose
  - Also deployed the application on Kubernetes using minikube
 ## Tech Stack
 - Java
